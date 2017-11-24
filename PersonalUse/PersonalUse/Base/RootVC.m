@@ -38,23 +38,7 @@
          NSLog(@"completed   %@",error);
      }];
     
-
-    
-    
-//    [_imageV
-//     sd_setImageWithURL:[NSURL URLWithString:@"https://dsfsadf"]
-//     placeholderImage: nil
-//     options:SDWebImageRetryFailed
-//     progress:^(NSInteger receivedSize, NSInteger expectedSize) {
-//
-//     } completed:^(UIImage *image, NSError *error, SDImageCacheType cacheType, NSURL *imageURL) {
-//         NSLog(@"completed");
-//     }];
-    
-   
-    
     NSLog(@"end");
-    
 }
 
 
