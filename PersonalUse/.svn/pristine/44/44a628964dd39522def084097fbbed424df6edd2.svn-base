@@ -1,0 +1,16 @@
+
+# platform :ios, '8.0'
+
+target 'PersonalUse' do
+ 
+  # use_frameworks!
+
+  pod 'YYKit', '= 1.0.9'
+  pod 'Masonry', '= 1.1.0'
+  pod 'ReactiveCocoa', :git => 'https://github.com/zhao0/ReactiveCocoa.git', :tag => '2.5.2'
+  pod 'SDWebImage', '= 3.7'
+  pod 'pop', '= 1.0.9'  #动画
+  pod 'AFNetworking', '= 3.1.0'
+  pod 'MJRefresh', '= 3.1.15'
+
+end
