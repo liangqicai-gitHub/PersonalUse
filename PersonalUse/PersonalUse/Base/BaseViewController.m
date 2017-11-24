@@ -27,6 +27,8 @@
 
 - (BOOL)needToBuildTopBar
 {
+    
+    
     return YES;
 }
 
