@@ -25,5 +25,9 @@
     return YES;
 }
 
+- (BOOL)needToBuildTopBar
+{
+    return YES;
+}
 
 @end
