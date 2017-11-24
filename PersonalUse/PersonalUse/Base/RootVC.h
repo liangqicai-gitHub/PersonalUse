@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+<<<<<<< HEAD
 //111
+=======
+///22222
+>>>>>>> 2222
 @interface RootVC : UIViewController
 
 @end
